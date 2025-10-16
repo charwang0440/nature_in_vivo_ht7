@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "In vivo site-specific engineering to reprogram T cells"
+authors:
+  - family-names: "Wang"
+    given-names: "Charlotte"
+version: "1.0.0"
+date-released: "2025-10-16"
+url: "https://github.com/your-username/nature_in_vivo_ht7"   # update after repo is created
+doi: "10.5281/zenodo.XXXXXXX"                                # update after Zenodo archive
